@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Andres Sanchez</h1>
+<h1 align="center">Hi 👋, Software engineer</h1>
 <h3 align="center">Passionate about new technologies, leader of software projects, agile methodologie</h3>
 
 <h3 align="left">Connect with me:</h3>
