@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sanchezcode/sanchezcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Andres Sanchez <br> Software engineer </h1>
-<h3 align="center">Passionate about new technologies, leader of software projects, agile methodologie</h3>
+<h3 align="center">Passionate about new technologies, software project leader, certified in SCRUM Developer agile methodology and I love teaching programming.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
