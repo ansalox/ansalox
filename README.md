@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/16064869/sanchezcode" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sanchezcode" height="30" width="40" /></a>
 <a href="https://instagram.com/sanchezcode" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanchezcode" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCD4ifJ_h3dGDW52fbDdKSBg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sanchezcode" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/fSW3QjqmWt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/fSW3QjqmWt" height="30" width="40" /></a>
+<a href="https://discord.gg/xdP96d5BeU" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/fSW3QjqmWt" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
