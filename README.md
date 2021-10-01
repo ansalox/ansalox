@@ -1,5 +1,5 @@
 
-<h1>Hi 👋, I'm Andres Sanchez <br> Software Devloper </h1>
+<h1>Hi 👋, I'm Andres Sanchez <br> Software Developer </h1>
 <h3>Passionate about new technologies, software project leader, certified in SCRUM Developer agile methodology and I love teaching programming.</h3>
 
 - 🔭 I’m currently working on: BIT- Bogotá Institute of Technology (CTO and Code Teacher)
