@@ -1,17 +1,16 @@
-<!--
+
 **sanchezcode/sanchezcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1>Hi 👋, I'm Andres Sanchez <br> Software Devloper </h1>
+<h3>Passionate about new technologies, software project leader, certified in SCRUM Developer agile methodology and I love teaching programming.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on: BIT- Bogotá Institute of Technology (CTO and Code Teacher)
+- 🌱 I’m currently learning : GO
+- 💬 Ask me about : Web Development, Data Science, SCRUM, Game Development
+- 📫 How to reach me: @sanchezcode in all networks
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: Code, Video Games, Series
+
 
 <h1 align="center">Hi 👋, I'm Andres Sanchez <br> Software engineer </h1>
 <h3 align="center">Passionate about new technologies, software project leader, certified in SCRUM Developer agile methodology and I love teaching programming.</h3>
