@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: BIT- Bogotá Institute of Technology (CTO and Code Teacher)
 - 🌱 I’m currently learning : GO
-- 💬 Ask me about : Web Development (JavaScript, Angular, NodeJS, ExpressJS, MongoDB), Data Science, SCRUM, Game Development
+- 💬 Ask me about : Web Development (JavaScript, Angular, NodeJS, ExpressJS, MongoDB), Data Science, SCRUM, Game Development, Containers, Cloud
 - 📫 How to reach me: @sanchezcode in all networks
 - ⚡ Fun fact: Code, Video Games, Series
 
