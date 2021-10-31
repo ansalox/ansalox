@@ -1,6 +1,6 @@
 
 <h1>Hi 👋, I'm Andres Sanchez <br> Software Developer </h1>
-<h3>Passionate about new technologies, software project leader, certified in SCRUM Developer agile methodology and I love teaching programming.</h3>
+<h3>Passionate about technology and software development, I have experience leading web development projects and leading teams of programming instructors, I have a SCRUM Developer certification which has allowed me to build agile teams achieving optimal results, I have researched new technologies and how to apply them to the business and education sector, especially data science, computer security and blockchain..</h3>
 
 - 🔭 I’m currently working on: BIT- Bogotá Institute of Technology (CTO and Code Teacher)
 - 🌱 I’m currently learning : GO
