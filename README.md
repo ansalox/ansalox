@@ -2,7 +2,7 @@
 <h1>Hi 👋, I'm Andres Sanchez <br> Software Developer </h1>
 <h3>Passionate about technology and software development, I have experience leading web development projects and leading teams of programming instructors, I have a SCRUM Developer certification which has allowed me to build agile teams achieving optimal results, I have researched new technologies and how to apply them to the business and education sector, especially data science, computer security and blockchain..</h3>
 
-- 🔭 I’m currently working on: BIT- Bogotá Institute of Technology (CTO and Code Teacher)
+- 🔭 I’m currently working on: BIT- Bogotá Institute of Technology (CTO)
 - 🌱 I’m currently learning : .NET Core
 - 💬 Ask me about : Web Development (JavaScript, Angular, NodeJS, ExpressJS, MongoDB), Data Science, SCRUM, Game Development, Containers, Cloud, GO, SQL
 - 📫 How to reach me: @sanchezcode in all networks
