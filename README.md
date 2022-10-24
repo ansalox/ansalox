@@ -9,7 +9,7 @@ Passionate about technology and software development, I have experience leading 
 
 * ✉️  You can contact me at [https://linktr.ee/sanchezcode](mailto:https://linktr.ee/sanchezcode)
 * 🚀  I'm currently working on [BIT- Bogotá Institute of Technology (CTO)](http://bit.institute)
-* 🧠  I'm learning GO
+* 🧠  I'm learning New I.A Technology
 * 🤝  I'm open to collaborating on MEAN STACK and Artificial Intelligence Projects
 * ⚡  I like to take photos of everything I see, but I'm not a photographer.
 
