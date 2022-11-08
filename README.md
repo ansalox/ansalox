@@ -26,7 +26,7 @@ src="https://img.shields.io/twitch/status/sanchezcode?logo=twitchsx&style=for-th
 | Web Development  | Artificial Intelligence | Metaverso |
 | ------------- | ------------- | ------------ |
 | HTML  |Python | C# |
-| CSS  | Statistics  |
+| CSS  | Statistics  | Unity |
 | Javascript  | PowerBI | Unreal Engine| 
 | Bootstrap  | Google Colab  | Vuforia | 
 | SASS  | upyter notebook | Blue prints | 
