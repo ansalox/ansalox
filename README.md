@@ -23,57 +23,21 @@ src="https://img.shields.io/twitch/status/sanchezcode?logo=twitchsx&style=for-th
 
 ### Development Skills
 
-| Web Development  | Artificial Intelligence | First Header | Metaverso | 
-| ------------- | ------------- | ------------ | ------------- |
-| HTML  | Content Cell  | Content Cell | Content Cell  |
-| CSS  | Content Cell  | Content Cell | Content Cell  |
-| Javascript  | Content Cell  | Content Cell | Content Cell  |
-| Bootstrap  | Content Cell  | Content Cell | Content Cell  |
-| SASS  | Content Cell  | Content Cell | Content Cell  |
-| Typescript  | Content Cell  | Content Cell | Content Cell  |
-| NodeJS  | Content Cell  | Content Cell | Content Cell  |
-| ExpressJS  | Content Cell  | Content Cell | Content Cell  |
-| MongoDB  | Content Cell  | Content Cell | Content Cell  |
-| GraphQL  | Content Cell  | Content Cell | Content Cell  |
-| Docker  | Content Cell  | Content Cell | Content Cell  |
-| Kubernetes  | Content Cell  | Content Cell | Content Cell  |
-| Heroku  | Content Cell  | Content Cell | Content Cell  |
-
-- Web Development
-  - HTML
-  - CSS
-  - Javascript
-  - Bootstrap
-  - SASS
-  - Typescript
-  - NodeJS
-  - ExpressJS
-  - MongoDB
-  - GraphQL
-  - Docker
-  - Kubernetes
-  - Heroku
-
-- Artificial Intelligence
-  - Python
-  - Statistics
-  - PowerBI
-  - Google Colab
-  - Jupyter notebook
-  - Tensorflow
-  - Pandas
-  - NumPy
-  - Matplotlib
-  - Keras
-  - Seabon
-  - 
-
-- Metaverso
-  - C#
-  - Unity
-  - Unreal Engine
-  - Blue prints
-  - Vuforia
+| Web Development  | Artificial Intelligence | Metaverso |
+| ------------- | ------------- | ------------ |
+| HTML  |Python | C# |
+| CSS  | Statistics  |
+| Javascript  | PowerBI | Unreal Engine| 
+| Bootstrap  | Google Colab  | Vuforia | 
+| SASS  | upyter notebook | Blue prints | 
+| Typescript  | Tensorflow |  | 
+| NodeJS  | Pandas  | |
+| ExpressJS  | NumPy  | |
+| MongoDB  | Matplotlib  |  | 
+| GraphQL  | Keras  |  | 
+| Docker  | Seabon  | | 
+| Kubernetes  |   |  | 
+| Heroku  |   |  |
 
 
 ### Socials
