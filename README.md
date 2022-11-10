@@ -4,6 +4,8 @@ Hi 👋 My name is Andres Sanchez
 
 Software Engineer
 -----------------
+<a href="https://www.twitch.tv/sanchezcode" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/sanchezcode?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 Passionate about technology and software development, I have experience leading web development projects and leading teams of programming instructors, I have a SCRUM Developer certification which has allowed me to build agile teams achieving optimal results, I have investigated new technologies and how apply them to the business and educational sector, especially data science, computer security and blockchain.
 
