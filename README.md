@@ -19,9 +19,7 @@ Passionate about technology and software development, I have experience leading 
 
 <a href="https://www.twitter.com/sanchezcode" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/sanchezcode?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/sanchezcode" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sanchezcode?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/sanchezcode" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/sanchezcode?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+/></a>
 
 ### Development Skills
 
