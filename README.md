@@ -5,7 +5,7 @@ Hi 👋 My name is Andres Sanchez
 Software Engineer
 -----------------
 
-Code streams coming soon on twitch
+Code streams coming soon on twitch <a href="https://www.twitch.tv/sanchezcode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
 
 <a href="https://www.twitch.tv/ansanchex" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/ansalox?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
@@ -24,7 +24,7 @@ src="https://img.shields.io/twitter/follow/ansanchex?logo=twitter&style=for-the-
 
 ### Development Skills
 
-| Web Frontend | Web Backend  | Data Base  | Machine learning |
+| Web Frontend | Web Backend  | Data Base  | Machine learning  |
 | -------------| ------------ | ---------   | ---------------- |
 | HTML         |  Javascript  |  MySQL      | Python           |
 | CSS          |  Typescript  |  SQLServer  | Statistics       | 
@@ -41,7 +41,7 @@ src="https://img.shields.io/twitter/follow/ansanchex?logo=twitter&style=for-the-
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/sanchezcode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sanchezcode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sanchezcode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/sanchezcode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sanchezcode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/sanchezcodechanel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/sanchezcode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
+<p align="left"> <a href="https://www.github.com/sanchezcode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sanchezcode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sanchezcode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/sanchezcode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sanchezcode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/sanchezcodechanel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> 
 <a href="https://discord.gg/xdP96d5BeU" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/fSW3QjqmWt" height="30" width="40" /></a>
 </p>
 
