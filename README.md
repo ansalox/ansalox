@@ -24,22 +24,19 @@ src="https://img.shields.io/twitter/follow/ansanchex?logo=twitter&style=for-the-
 
 ### Development Skills
 
-| Web Development  | Artificial Intelligence |
-| ------------- | ------------- | 
-| HTML  |Python |
-| CSS  | Statistics  | 
-| JavaScript  | PowerBI | 
-| Bootstrap  | Google Colab  | 
-| SASS  | Jupyter notebook | 
-| Typescript  | Tensorflow |
-| NodeJS  | Pandas  | 
-| ExpressJS  | NumPy  | 
-| MongoDB  | Matplotlib  | 
-| GraphQL  | Keras  |  
-| Angular  | Seabon  | 
-| Redux  |   |  
-| Heroku  |   | 
-| Kubernetes  |   |
+| Web Frontend | Web Backend  | Data Base  | Machine learning |
+| -------------| ------------ | ---------   | ---------------- |
+| HTML         |  Javascript  |  MySQL      | Python           |
+| CSS          |  Typescript  |  SQLServer  | Statistics       | 
+| JavaScript   |  NodeJS      |  MongoDB    | PowerBI          | 
+| Bootstrap    |  ExpressJS   |  PostgreSQL | Google Colab     | 
+| SASS         |  GraphQL     |             | Jupyter notebook | 
+| Angular      |  Docker      |             | Tensorflow       |
+| Redux        |  Kubernetes  |             | Pandas           | 
+|              |              |             | NumPy            | 
+|              |              |             | Matplotlib       | 
+|              |              |             | Keras            |  
+|              |              |             | Seabon           | 
 
 
 ### Socials
