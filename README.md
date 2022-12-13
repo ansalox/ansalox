@@ -10,7 +10,7 @@ Passionate about technology and software development, I have experience leading 
 <a href="https://www.twitch.tv/sanchezcode" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/ansalox?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
-* ✉️  You can contact me at [https://linktr.ee/sanchezcode](mailto:https://linktr.ee/sanchezcode)
+* ✉️  You can contact me at [https://linktr.ee/ansanchex](mailto:https://linktr.ee/ansanchex)
 * 🚀  I'm currently working on [BIT- Bogotá Institute of Technology (CTO)](http://bit.institute)
 * 🧠  I'm learning new Metaverso Technology
 * 🤝  I'm open to collaborating on MEAN STACK, Metaverso and Artificial Intelligence projects
