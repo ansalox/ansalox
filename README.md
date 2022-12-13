@@ -7,16 +7,16 @@ Software Engineer
 
 Passionate about technology and software development, I have experience leading web development projects and leading teams of programming instructors, I have a SCRUM Developer certification which has allowed me to build agile teams achieving optimal results, I have investigated new technologies and how apply them to the business and educational sector, especially data science, computer security and blockchain.
 
-<a href="https://www.twitch.tv/sanchezcode" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitch.tv/ansanchex" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/ansalox?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 * ✉️  You can contact me at [https://linktr.ee/ansanchex](mailto:https://linktr.ee/ansanchex)
 * 🚀  I'm currently working on [BIT- Bogotá Institute of Technology (CTO)](http://bit.institute)
-* 🧠  I'm learning new Metaverso Technology
-* 🤝  I'm open to collaborating on MEAN STACK, Metaverso and Artificial Intelligence projects
+* 🧠  I'm learning new technologies of javascript and artificial intelligence
+* 🤝  I'm open to collaborating on JavaScript and Artificial Intelligence projects
 * ⚡  I like to take photos of everything I see, but I'm not a photographer.
-* 👨‍💻 All of my projects are available at soon..
-* 📝 I regularly write articles on soon..
+* 👨‍💻  All of my projects are available at soon..
+* 📝  I regularly write articles on soon..
 
 <a href="https://www.twitter.com/sanchezcode" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/sanchezcode?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
