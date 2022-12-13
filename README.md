@@ -19,7 +19,7 @@ src="https://img.shields.io/twitch/status/ansalox?logo=twitchsx&style=for-the-ba
 * 📝  I regularly write articles on soon..
 
 <a href="https://www.twitter.com/ansanchex" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ansanchex?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/ansalox?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Development Skills
