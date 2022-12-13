@@ -24,21 +24,22 @@ src="https://img.shields.io/twitter/follow/sanchezcode?logo=twitter&style=for-th
 
 ### Development Skills
 
-| Web Development  | Artificial Intelligence | Metaverso |
-| ------------- | ------------- | ------------ |
-| HTML  |Python | C# |
-| CSS  | Statistics  | Unity |
-| Javascript  | PowerBI | Unreal Engine| 
-| Bootstrap  | Google Colab  | Vuforia | 
-| SASS  | upyter notebook | Blue prints | 
-| Typescript  | Tensorflow |  | 
-| NodeJS  | Pandas  | |
-| ExpressJS  | NumPy  | |
-| MongoDB  | Matplotlib  |  | 
-| GraphQL  | Keras  |  | 
-| Docker  | Seabon  | | 
-| Kubernetes  |   |  | 
-| Heroku  |   |  |
+| Web Development  | Artificial Intelligence |
+| ------------- | ------------- | 
+| HTML  |Python |
+| CSS  | Statistics  | 
+| JavaScript  | PowerBI | 
+| Bootstrap  | Google Colab  | 
+| SASS  | Jupyter notebook | 
+| Typescript  | Tensorflow |
+| NodeJS  | Pandas  | 
+| ExpressJS  | NumPy  | 
+| MongoDB  | Matplotlib  | 
+| GraphQL  | Keras  |  
+| Angular  | Seabon  | 
+| Redux  |   |  
+| Heroku  |   | 
+| Kubernetes  |   |
 
 
 ### Socials
