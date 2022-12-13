@@ -5,7 +5,7 @@ Hi 👋 My name is Andres Sanchez
 Software Engineer
 -----------------
 
-Developer of web projects and artificial intelligence. Experience leading software and academic projects.
+Code streams coming soon on twitch
 
 <a href="https://www.twitch.tv/ansanchex" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/ansalox?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
