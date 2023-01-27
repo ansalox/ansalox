@@ -18,27 +18,6 @@ src="https://img.shields.io/twitch/status/ansanchexz?logo=twitchsx&style=for-the
 * 👨‍💻  All of my projects are available at soon..
 * 📝  I regularly write articles on soon..
 
-<a href="https://www.twitter.com/ansanchexz" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ansanchexz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
-### Development Skills
-
-| Web Frontend | Web Backend  | Data Base  | Machine learning  |
-| -------------| ------------ | ---------   | ---------------- |
-| HTML         |  Javascript  |  MySQL      | Python           |
-| CSS          |  Typescript  |  SQLServer  | Statistics       | 
-| JavaScript   |  NodeJS      |  MongoDB    | Seabon           | 
-| Bootstrap    |  ExpressJS   |  PostgreSQL | Google Colab     | 
-| SASS         |  GraphQL     |             | Jupyter notebook | 
-| Angular      |  Docker      |             | Tensorflow       |
-| Redux        |  Kubernetes  |             | Pandas           | 
-|              |              |             | NumPy            | 
-|              |              |             | Matplotlib       | 
-|              |              |             | Keras            |  
-|              |              |             |                  | 
-
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/ansanchexz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ansanchexz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ansanchexz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/ansanchexz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ansanchexz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@ansanchexz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> 
