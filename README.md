@@ -2,7 +2,7 @@
 Hi 👋 My name is Andres Sanchez
 ===============================
 
-Software Engineer
+Software Engineer, Developer, Teacher and Chief Product Officer
 -----------------
 
 Code streams coming soon on twitch <a href="https://www.twitch.tv/ansanchexz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
