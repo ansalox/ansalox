@@ -11,12 +11,12 @@ Code streams coming soon on twitch <a href="https://www.twitch.tv/ansanchexz" ta
 src="https://img.shields.io/twitch/status/ansanchexz?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 * ✉️  You can contact me at [https://linktr.ee/ansanchexz](mailto:https://linktr.ee/ansanchexz)
-* 🚀  I'm currently working on [BIT- Bogotá Institute of Technology (CTO)](http://bit.institute)
-* 🧠  I'm learning new technologies of javascript and artificial intelligence
-* 🤝  I'm open to collaborating on Web Development and Artificial Intelligence projects
+* 🚀  I'm currently working on [BIT- Bogotá Institute of Technology (Product Manager and CTO)](http://bit.institute)
+* 🧠  I'm learning new technologies of Artificial Intelligence and JavaScript
+* 🤝  I'm open to collaborating on Artificial Intelligence and Web Development projects
 * ⚡  I like to take photos of everything I see, but I'm not a photographer.
-* 👨‍💻  All of my projects are available at soon..
-* 📝  I regularly write articles on soon..
+* 👨‍💻  All of my projects are available at "soon.."
+* 📝  I regularly write articles on "soon.."
 
 ### Socials
 
