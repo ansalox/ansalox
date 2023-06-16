@@ -24,7 +24,7 @@ src="https://img.shields.io/twitch/status/ansanchexz?logo=twitchsx&style=for-the
 ### More code topics at:
 
 </a> <a href="https://www.stackoverflow.com/users/ansanchexz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ansanchexz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@ansanchexz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> 
-<a href="https://discord.gg/xdP96d5BeU" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/fSW3QjqmWt" height="30" width="40" /></a>
+<a href="https://discord.gg/VGscSwhp4H" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/fSW3QjqmWt" height="30" width="40" /></a>
 </p>
 
 ### Badges
