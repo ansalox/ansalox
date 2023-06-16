@@ -10,13 +10,13 @@ Code streams coming soon on twitch <a href="https://www.twitch.tv/ansanchexz" ta
 <a href="https://www.twitch.tv/ansanchexz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/ansanchexz?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
-* ✉️  You can contact me at [https://linktr.ee/ansanchexz](mailto:https://linktr.ee/ansanchexz)
-* 🚀  I'm currently working on (Freelance)
-* 🧠  I'm learning new technologies of Artificial Intelligence and JavaScript
-* 🤝  I'm open to collaborating on Artificial Intelligence and Web Development projects
-* ⚡  I like to take photos of everything I see, but I'm not a photographer.
-* 👨‍💻  All of my projects are available at "soon.."
-* 📝  I regularly write articles on "soon.."
+* ✉️  You can contact me on all my social media at https://linktr.ee/ansanchexz
+* 🚀 I am currently taking a sabbatical.
+* 🧠 I am always learning new technologies in Artificial Intelligence and JavaScript (Web Development).
+* 🤝 I am open to collaborating on projects in Artificial Intelligence and Web Development (using all JavaScript tools).
+* ⚡ I enjoy taking photos of everything I see, but I am not a photographer.
+* 👨‍💻 All my projects are available in "Updating portfolio".
+* 📝 I regularly write articles on "Updating page".
 
 ### Socials
 
