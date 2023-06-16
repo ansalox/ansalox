@@ -2,12 +2,13 @@
 Hi 👋 My name is Andres Sanchez
 ===============================
 
-You can find me everywhere as @ansanchexz.
-
 I am a Software Engineer with over 10 years of experience.
+
+You can find me everywhere as @ansanchexz
 -----------------
 
-Code streams coming soon on twitch <a href="https://www.twitch.tv/ansanchexz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
+<a href="https://www.twitch.tv/ansanchexz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a> 
+Code streams on Twitch coming soon.
 
 <a href="https://www.twitch.tv/ansanchexz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/ansanchexz?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
