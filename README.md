@@ -14,7 +14,7 @@ Code streams on Twitch coming soon.
 src="https://img.shields.io/twitch/status/ansanchexz?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 * ✉️ You can contact me on all my social media at https://linktr.ee/ansanchexz
-* 🚀 I am currently working on the development of an application (the name will be revealed soon).
+* 🚀 I am currently working on the development of an application (the name will be revealed soon - hls1723 ).
 * 🧠 I am always learning new technologies in Artificial Intelligence and JavaScript (Web Development).
 * 🤝 I am open to collaborating on projects in Artificial Intelligence and Web Development (using all JavaScript tools).
 * ⚡ I enjoy taking photos of everything I see, but I am not a photographer.
