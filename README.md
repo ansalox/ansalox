@@ -4,7 +4,7 @@ Hi 👋 My name is Andres Sanchez
 
 I am a Software Engineer with over 10 years of experience.
 
-You can find me everywhere as @ansanchexz
+You can find me everywhere as @ansanchezx
 -----------------
 
 <a href="https://www.twitch.tv/ansanchexz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a> 
