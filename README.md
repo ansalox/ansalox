@@ -24,8 +24,6 @@ src="https://img.shields.io/twitch/status/ansalox_?logo=twitchsx&style=for-the-b
 * 👨‍💻 All my projects are available on "Currently updating page".
 * 📝 I regularly write articles on "Currently updating page".
 
-### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ansalox"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ansalox&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
