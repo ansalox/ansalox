@@ -15,7 +15,7 @@ Code streams on Mondays and Thursdays at 7:00 PM Colombia time.
 src="https://img.shields.io/twitch/status/ansalox_?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 * ✉️ You can contact me on all my social media and platforms at https://linktr.ee/ansalox
-* 🚀 I am currently working on product development and artificial intelligence at https://mentortic.com/ and https://www.twitch.tv/ansalox_
+* 🚀 I am currently working on product development and artificial intelligence at [https://mentortic.com/](https://mentortic.com/) and [https://www.twitch.tv/ansalox_](https://www.twitch.tv/ansalox_)
 * 🧠 I am always learning and sharing what I learn
 * 🤝 I am open to collaborating on projects in Artificial Intelligence and content creation on social media and Twitch
 * ⚡ I enjoy taking photos of everything I see, but I am not a photographer, also of video games and series
