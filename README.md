@@ -9,7 +9,9 @@ Hi 👋 My name is Andres Sanchez
 -----------------
 
 <a href="https://www.twitch.tv/ansalox_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a> 
-Code streams on Mondays and Thursdays at 7:00 PM Colombia time.
+
+* Code streams on Mondays and Thursdays at 8:00 PM Colombia time.
+* Tech talks on Tuesdays at 7:00 PM Colombia time.
 
 <a href="https://www.twitch.tv/ansalox_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/ansalox_?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
