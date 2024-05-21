@@ -4,14 +4,14 @@ Hi 👋 My name is Andres Sanchez
 
 * I'm a software engineer with 12 years of experience in the IT sector.
 * Those who know me call me Ansalo, which are my initials.
-* Currently, I'm dedicated to AI development, product creation for a company, and content creation.
+* Currently, I'm dedicated to AI development, product creation for a company, and content creation (Twitch, youtube and social media).
 * You can find me on any social media or platform as @ansalox.
 -----------------
 
 <a href="https://www.twitch.tv/ansalox_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a> 
 <-- Followme in Twitch
-* Code streams on Mondays and Thursdays at 8:00 PM Colombia time.
-* Tech talks on Tuesdays at 7:00 PM Colombia time.
+* Code streams on Mondays and wednesday at 8:00 PM Colombia time.
+* Tech talks on Tuesdays at 6:00 PM Colombia time.
 
 <a href="https://www.twitch.tv/ansalox_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/ansalox_?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
