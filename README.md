@@ -34,6 +34,6 @@ src="https://img.shields.io/twitch/status/ansalox_?logo=twitchsx&style=for-the-b
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansalox&theme=radical&card_width=450em)](https://github.com/ansalox/ansalox/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ansalox&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ansalox&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
   </tr>
 </table>
