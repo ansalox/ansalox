@@ -2,7 +2,7 @@
 Hi 👋 My name is Andres Sanchez
 ===============================
 
-* I'm a software engineer with 12 years of experience in the IT sector.
+* I'm a software engineer with 12 years of experience in the IT sector
 * Those who know me call me Ansalo, which are my initials.
 * Currently, I'm dedicated to AI development, product creation for a company, and content creation (Twitch, youtube and social media ).
 * You can find me on any social media or platform as @ansalox.
