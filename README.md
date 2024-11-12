@@ -23,6 +23,7 @@ src="https://img.shields.io/twitch/status/ansalox?logo=twitchsx&style=for-the-ba
 * ⚡ I enjoy taking photos of everything I see, but I am not a photographer, also of video games and series
 * 👨‍💻 All my projects are available on "Currently updating page".
 * 📝 I regularly write articles on "Currently updating page".
+*  Netx project - Portfolio
 
 <b>My GitHub Stats</b>
 
