@@ -23,12 +23,21 @@ src="https://img.shields.io/twitch/status/ansalox?logo=twitchsx&style=for-the-ba
 * ⚡ I enjoy taking photos of everything I see, but I am not a photographer, also of video games and series
 * 👨‍💻 All my projects are available on "Currently updating page".
 * 📝 I regularly write articles on "Currently updating page".
-*  Netx project - Portfolio 11/24
+* Netx project - Portfolio 11/24
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ansalox"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ansalox&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/ansalox">
+  <img src="https://github-readme-stats.vercel.app/api?username=ansalox&show_icons=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2&hide_border=true" alt="Ansalox GitHub Stats" />
+</a>
 
+<a href="http://www.github.com/ansalox">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansalox&layout=compact&bg_color=1c1917&title_color=0891b2&text_color=ffffff&hide_border=true" alt="Top Languages" />
+</a>
+
+<a href="http://www.github.com/ansalox">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansalox&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+</a>
 
 (Thank you <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra</a>)
 
