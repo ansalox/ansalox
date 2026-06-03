@@ -26,9 +26,11 @@ src="https://img.shields.io/twitch/status/ansalox?logo=twitchsx&style=for-the-ba
 
 **My GitHub Stats**
 
-<!-- Gráfica de Commits y Actividad (Colores personalizados) -->
-[![Ansalox's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ansalox&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff&area=true&hide_border=true)](https://github.com/ansalox)
 
 <!-- Tarjetas de Estadísticas Generales y Lenguajes (Tema oscuro) -->
 [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ansalox&theme=tokyonight)](https://github.com/ansalox)
 [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ansalox&theme=tokyonight)](https://github.com/ansalox)
+
+<!-- Gráfica de Commits y Actividad (Colores personalizados) -->
+[![Ansalox's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ansalox&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff&area=true&hide_border=true)](https://github.com/ansalox)
+
