@@ -26,8 +26,9 @@ src="https://img.shields.io/twitch/status/ansalox?logo=twitchsx&style=for-the-ba
 
 **My GitHub Stats**
 
-[![Ansalox GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansalox&show_icons=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2&hide_border=true)](https://github.com/ansalox)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansalox&layout=compact&bg_color=1c1917&title_color=0891b2&text_color=ffffff&hide_border=true)](https://github.com/ansalox)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ansalox&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://github.com/ansalox)
+<!-- Gráfica de Commits y Actividad (Colores personalizados) -->
+[![Ansalox's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ansalox&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff&area=true&hide_border=true)](https://github.com/ansalox)
 
-*(Thank you [Anuraghazra](https://github.com/anuraghazra/github-readme-stats))*
+<!-- Tarjetas de Estadísticas Generales y Lenguajes (Tema oscuro) -->
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ansalox&theme=tokyonight)](https://github.com/ansalox)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ansalox&theme=tokyonight)](https://github.com/ansalox)
